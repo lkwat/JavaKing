@@ -1,7 +1,7 @@
 package ch07;
 
 import java.util.Scanner;
-public class C07_H05 {
+public class Ch07_H05 {
     public static void main(String[] args){
         int[] score = new int[100];
         int count = 0;
