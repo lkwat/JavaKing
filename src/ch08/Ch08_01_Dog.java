@@ -1,12 +1,12 @@
 package ch08;
-class Dog{
+class Ch0801Dog{
     String name;
     String color;
     int age;
 }
-public class Ch08_01 {
+public class Ch08_01_Dog {
     public static void main(String[] args){
-        Dog myDog = new Dog();
+        Ch0801Dog myDog = new Ch0801Dog();
         myDog.name = "Lily";
         myDog.color = "White";
         myDog.age = 5;
