@@ -1,4 +1,4 @@
-package Ch10;
+package ch10;
 
 public class Ch10_05_Max_Min {
     public static void main(String[] args) {
